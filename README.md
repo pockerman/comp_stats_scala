@@ -1,4 +1,4 @@
-# scalarl
+# data_science_scala
 
 Simple implementation of various algorithms using Scala
 
@@ -6,6 +6,18 @@ Simple implementation of various algorithms using Scala
 
 - <a href="https://github.com/scalanlp/breeze/tree/master/math/src/main/scala/breeze">Breeze</a>
 - <a href="https://scalapy.dev/">ScalaPy</a>
+
+
+
+
+## Issues
+
+- ```java.lang.UnsatisfiedLinkError: Can't load library: /usr/lib/jvm/java-11-openjdk-amd64/lib/libawt_xawt.so``` 
+On a Ubuntu machine try to install the Java 11 JDK:
+
+```
+sudo apt install openjdk-11-jdk
+```
 
 
 ## Examples
