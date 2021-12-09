@@ -1,4 +1,4 @@
-package visualization.basic
+package chapter2.basic
 
 import breeze.linalg._
 import breeze.plot._

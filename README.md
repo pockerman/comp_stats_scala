@@ -1,13 +1,11 @@
-# data_science_scala
+# comp_stats_scala
 
-Simple implementation of various algorithms using Scala
+Computational Statistics with Scala.
 
 ## Dependencies
 
 - <a href="https://github.com/scalanlp/breeze/tree/master/math/src/main/scala/breeze">Breeze</a>
 - <a href="https://scalapy.dev/">ScalaPy</a>
-
-
 
 
 ## Issues
@@ -20,36 +18,8 @@ sudo apt install openjdk-11-jdk
 ```
 
 
-## Examples
-
-### Reinforcement Learning
-
-- <a href="src/main/scala/examples/rl/Example1_CreateGym_World.scala">Create an OpenAI Gym world with ScalaPy</a>
-
-#### Dynamic Programming
-
-- <a href="src/main/scala/examples/rl/Example3_IterativePoicyEvaluation.scala">Iterative policy evaluation on ```FrozenLake-v0```</a>
-- <a href="src/main/scala/examples/rl/Example4_PolicyImprovement_FrozenLake.scala">Policy improvement on ```FrozenLake-v0```</a>
-- <a href="src/main/scala/examples/rl/Example5_PolicyIteration_FrozenLake">Policy iteration on ```FrozenLake-v0```</a>
-- <a href="src/main/scala/examples/rl/Example2_ValueIteration.scala">Value iteration on ```FrozenLake-v0```</a>
-
-#### Monte Carlo
-
-#### Temporal Differencing
+## Chapters
 
 
-### Machine Learning
-
-#### Supervised Learning
-
-- <a href="src/main/scala/examples/regression/LinearRegressionExe_1.scala">Linear regression</a>
-- <a href="src/main/scala/examples/classification/LogisticRegression_Exe.scala">Logistic regression</a>
-
-
-## Images
-
-<img src="images/state_value_function.png"
-     alt="Carrot Patth Following"
-     style="float: left; margin-right: 10px; width: 500px;" />
-
-
+- Chapter 2: Visualization with Scala.Breeze
+- Chapter 3: Central tendency and variability
