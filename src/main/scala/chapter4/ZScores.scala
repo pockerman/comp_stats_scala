@@ -31,9 +31,9 @@ object ZScores extends App {
   // To view the changes, you need to refresh the figure
   fig.refresh()
 
-  println(s"Percentae between z=0 and z=1 is ${trapezoid(Standardize.f, 0.0, 1.0, 1000)*100}")
-  println(s"Percentae between z=0 and z=1 is ${trapezoid(Standardize.f, 0.0, 2.0, 1000)*100}")
-  println(s"Percentae between z=0 and z=1 is ${trapezoid(Standardize.f, 0.0, 3.0, 1000)*100}")
+  println(s"Percentage between z=0 and z=1 is ${trapezoid(Standardize.f, 0.0, 1.0, 1000)*100}")
+  println(s"Percentage between z=0 and z=2 is ${trapezoid(Standardize.f, 0.0, 2.0, 1000)*100}")
+  println(s"Percentage between z=0 and z=3 is ${trapezoid(Standardize.f, 0.0, 3.0, 1000)*100}")
 
 }
 

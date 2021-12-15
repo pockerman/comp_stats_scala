@@ -20,6 +20,16 @@ sudo apt install openjdk-11-jdk
 
 ## Chapters
 
-
+- Chapter 1: Probability
+	- Probability of events
+	- Random variables
+	- Binamial distribution
+	- Normal distribution
+	- Poisson distribution
+	- Add two random variables
+	- Multiply two random variables
 - Chapter 2: Visualization with Scala.Breeze
 - Chapter 3: Central tendency and variability
+- Chapter 4: Z-scores
+- Chapter 5: Statistical significance
+

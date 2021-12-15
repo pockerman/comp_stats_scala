@@ -17,10 +17,6 @@ object Binom {
 
     val cumProb = binomial.probabilityOf(4) + binomial.probabilityOf(3) + binomial.probabilityOf(2) + binomial.probabilityOf(1) + binomial.probabilityOf(0)
     println(s"Pr(X<=4)=${cumProb}")
-    println(s"Pr(X=3)=${binomial.probabilityOf(3)}")
-    println(s"Pr(X=2)=${binomial.probabilityOf(2)}")
-    println(s"Pr(X=1)=${binomial.probabilityOf(1)}")
-    println(s"Pr(X=0)=${binomial.probabilityOf(0)}")
 
     val flips = DenseVector.zeros[Double](N_EXPERIMENTS)
     val flipValues = new mutable.HashMap[Int, Int]()
