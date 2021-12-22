@@ -26,10 +26,13 @@ sudo apt install openjdk-11-jdk
 	- Binamial distribution
 	- Normal distribution
 	- Poisson distribution
+	- Expectation and variance 
 	- Add two random variables
 	- Multiply two random variables
-- Chapter 2: Visualization with Scala.Breeze
+- Chapter 2: Visualization with ```Scala.Breeze```
 - Chapter 3: Central tendency and variability
 - Chapter 4: Z-scores
 - Chapter 5: Statistical significance
+- Chapter 6: Correlation
+- Chapter 7: Linear models
 

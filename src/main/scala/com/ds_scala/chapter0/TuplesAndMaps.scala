@@ -1,4 +1,4 @@
-package chapter0
+package com.ds_scala.chapter0
 
 object TuplesAndMaps extends App{
 

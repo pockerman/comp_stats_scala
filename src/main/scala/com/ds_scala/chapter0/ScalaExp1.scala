@@ -1,4 +1,5 @@
-package chapter0
+package com.ds_scala.chapter0
+
 import breeze.linalg.DenseVector
 
 object ScalaExp1 extends App{
