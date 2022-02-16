@@ -28,7 +28,7 @@ object GradientDescent extends App{
       }
     }
 
-    
+
 
 
 
