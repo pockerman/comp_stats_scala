@@ -11,7 +11,7 @@ object GradientDescent extends App{
     var coeffs = DenseVector.zeros[Double](2)
     var oldGrad = fn.gradientAt(coeffs)
 
-    breakable {
+    /*breakable {
       for (itr <- 1 to nItrs) {
 
 
@@ -26,12 +26,12 @@ object GradientDescent extends App{
           break
         }
       }
-    }
+    }*/
 
 
 
 
-
+    null
 
   }
 

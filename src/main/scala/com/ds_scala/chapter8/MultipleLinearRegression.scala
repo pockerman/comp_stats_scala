@@ -1,4 +1,4 @@
-package com.ds_scala.chapter7
+package com.ds_scala.chapter8
 
 import breeze.linalg.{DenseMatrix, DenseVector}
 import breeze.optimize.{DiffFunction, minimize, LBFGS}
